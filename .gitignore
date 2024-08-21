@@ -1,3 +1,18 @@
+# extensions
+*.csv
+*.tsv
+*.txt
+*.pptx
+*.pdf
+*.docx
+*.xlsx
+*.Rproj
+
+# directories
+results/
+pediatric_bmi/
+pub_figures/
+
 # History files
 .Rhistory
 .Rapp.history
