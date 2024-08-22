@@ -1,11 +1,7 @@
 # extensions
-*.csv
-*.tsv
-*.txt
 *.pptx
 *.pdf
 *.docx
-*.xlsx
 *.Rproj
 
 # directories
