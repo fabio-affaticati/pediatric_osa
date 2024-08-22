@@ -9,8 +9,8 @@
 *.Rproj
 
 # directories
-results/
-pediatric_bmi/
+plots/
+data/
 pub_figures/
 
 # History files
