@@ -9,8 +9,6 @@
 *.Rproj
 
 # directories
-plots/
-data/
 pub_figures/
 
 # History files
